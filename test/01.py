@@ -13,3 +13,11 @@ def index4():
 
 def indnx5():
 	print("heelo world")
+
+
+def index6():
+	print("hello world6")
+
+
+
+
