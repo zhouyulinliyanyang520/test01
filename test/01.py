@@ -10,3 +10,6 @@ def index3():
 
 def index4():
 	print("hello world")
+
+def indnx5():
+	print("heelo world")
