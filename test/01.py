@@ -6,3 +6,7 @@ def index():
 def index3():
 	print("helo wolrd")
 
+
+
+def index4():
+	print("hello world")
